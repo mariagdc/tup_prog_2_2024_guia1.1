@@ -1,0 +1,11 @@
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\bin\Debug\Guia1.1.exe.config
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\bin\Debug\Guia1.1.exe
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\bin\Debug\Guia1.1.pdb
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1.1.csproj.AssemblyReference.cache
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1._1.Form1.resources
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1._1.Form2.resources
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1._1.Properties.Resources.resources
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1.1.csproj.GenerateResource.cache
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1.1.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1.1.exe
+C:\Users\Flor\source\repos\guia1prog2\Guia1.1\Guia1.1\obj\Debug\Guia1.1.pdb
