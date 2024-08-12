@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|c:\\users\\flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\guia1.1\\guia1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|solutionrelative:guia1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\guia1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|solutionrelative:guia1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\guia1.1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|solutionrelative:guia1.1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|c:\\users\\flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\guia1.1\\guia1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|solutionrelative:guia1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{368C7A1C-60BD-4F11-910F-66366F5649EC}|Guia1.1\\Guia1.1.csproj|C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\guia1.1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -42,7 +42,8 @@
               "RelativeToolTip": "Guia1.1\\Form2.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAApwBUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T22:49:43.32Z"
+              "WhenOpened": "2024-08-07T22:49:43.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,44 +53,47 @@
               "RelativeDocumentMoniker": "Guia1.1\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form1.Designer.cs",
               "RelativeToolTip": "Guia1.1\\Form1.Designer.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAApwEQAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T22:21:30.648Z"
+              "WhenOpened": "2024-08-07T22:21:30.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form1.cs",
               "RelativeDocumentMoniker": "Guia1.1\\Form1.cs",
               "ToolTip": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form1.cs",
               "RelativeToolTip": "Guia1.1\\Form1.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAASwFAAAAAUAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T20:28:27.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form2.cs",
               "RelativeDocumentMoniker": "Guia1.1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Flor\\source\\repos\\guia1prog2\\Guia1.1\\Guia1.1\\Form2.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\repos\\guia1prog2\\Guia1.1\\Guia1.1\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form2.cs [Design]",
+              "RelativeToolTip": "Guia1.1\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T20:25:53.238Z"
+              "WhenOpened": "2024-08-07T20:25:53.238Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form1.cs",
               "RelativeDocumentMoniker": "Guia1.1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Flor\\source\\repos\\guia1prog2\\Guia1.1\\Guia1.1\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\repos\\guia1prog2\\Guia1.1\\Guia1.1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Flor\\source\\reposprog2\\tup_prog_2_2024_guia1.1\\Guia1.1\\Guia1.1\\Form1.cs [Design]",
+              "RelativeToolTip": "Guia1.1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T20:13:16.818Z"
+              "WhenOpened": "2024-08-07T20:13:16.818Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

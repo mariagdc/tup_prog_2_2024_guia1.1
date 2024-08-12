@@ -153,6 +153,11 @@
             // upAño
             // 
             this.upAño.Location = new System.Drawing.Point(107, 71);
+            this.upAño.Maximum = new decimal(new int[] {
+            2100,
+            0,
+            0,
+            0});
             this.upAño.Name = "upAño";
             this.upAño.Size = new System.Drawing.Size(100, 20);
             this.upAño.TabIndex = 12;
@@ -160,6 +165,11 @@
             // upAñoCalcular
             // 
             this.upAñoCalcular.Location = new System.Drawing.Point(107, 115);
+            this.upAñoCalcular.Maximum = new decimal(new int[] {
+            2100,
+            0,
+            0,
+            0});
             this.upAñoCalcular.Name = "upAñoCalcular";
             this.upAñoCalcular.Size = new System.Drawing.Size(100, 20);
             this.upAñoCalcular.TabIndex = 13;

@@ -16,9 +16,7 @@ namespace Guia1._1
         {
             InitializeComponent();
         }
-        public string Marca = "";
-        public int Modelo = 0;
-        public double ValorFabrica;
+       
         public class Moto
         {
             public string Marca { get; set; }
@@ -38,12 +36,16 @@ namespace Guia1._1
 
 
             public double CalcularDepreciacionLineal(int vidaUtil, int añoAcalcular)
-            {
-                return ValorFabrica - (ValorFabrica * (añoAcalcular - Modelo) / vidaUtil);
+            { 
+                double añosDeuso = añoAcalcular-Modelo;
+                double valorActualizado =  ValorFabrica - (ValorFabrica * (añosDeuso / vidaUtil));
+                return valorActualizado;
             }
             public double CalcularDepreciacionAnual(int añoAcalcular, double tasaDepreciacion)
             {
-                return ValorFabrica * (Math.Pow(1 - 0.1, añoAcalcular - Modelo));
+                double añosdeuso = añoAcalcular - Modelo;
+                double ValorActualizado = ValorFabrica * Math.Pow((1 - tasaDepreciacion), añosdeuso);
+                return ValorActualizado;
             }
 
             public string ver()
